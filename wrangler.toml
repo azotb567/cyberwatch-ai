@@ -1,9 +1,8 @@
+name = "cyberwatch-ai"
+compatibility_date = "2025-08-05"
+
 [build]
 command = "npm run build"
-cwd = "."
-
-[build.upload]
-format = "directory"
 
 [site]
 bucket = "./dist" 
