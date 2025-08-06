@@ -1,8 +1,8 @@
-# CyberWatch AI - Advanced Threat Analysis Platform
+# Cybertomation - Advanced Threat Analysis Platform
 
 ## Project Overview
 
-CyberWatch AI is a professional cybersecurity scanning platform that provides real-time threat analysis for URLs, IP addresses, and files. Built with modern web technologies and integrated with advanced security APIs.
+Cybertomation is a professional cybersecurity scanning platform that provides real-time threat analysis for URLs, IP addresses, and files. Built with modern web technologies and integrated with advanced security APIs.
 
 ## Features
 
@@ -44,7 +44,7 @@ This project is built with:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd cyberwatch-ai
+cd cybertomation
 
 # Install dependencies
 npm install

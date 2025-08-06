@@ -1,11 +1,11 @@
 # Changelog
 
-All notable changes to CyberWatch AI will be documented in this file.
+All notable changes to Cybertomation will be documented in this file.
 
 ## [1.0.0] - 2025-08-05
 
 ### Added
-- Initial release of CyberWatch AI
+- Initial release of Cybertomation
 - URL Scanner with VirusTotal integration
 - IP Scanner with AbuseIPDB integration
 - File Scanner with malware detection
